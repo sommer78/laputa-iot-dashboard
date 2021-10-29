@@ -1,0 +1,183 @@
+{
+  "contacts": [
+    {
+      "id": "70c56cee-1d3f-43bf-b6a9-007806d6f1bc",
+      "mail": "wangyf@etek.com.cn",
+      "avatarUrl": "http://129.211.7.213/icon/0d7e059d.jpg",
+
+      "isStar": false,
+      "name": "王云飞",
+      "receiveDate": "2019-11-07T14:16:15.977",
+      "readDate": "2019-11-07T14:16:15.98",
+      "status": 0,
+      "Filestatus": 0,
+      "PictuerCount": 0,
+      "FilesCount": 0,
+      "isHaveAudio": true,
+      "isHaveFile": true
+    },
+    {
+      "id": "d3eb56cd-2fd9-4531-bf50-01b183bedaa9",
+      "mail": "wangyf@etek.com.cn",
+      "ParentId": "6e943aff-19b3-4e63-a232-fb527ea68e7b",
+      "IdentityId": 96,
+      "avatarUrl": "http://129.211.7.213/icon/b195368b.jpg",
+
+      "isStar": false,
+      "Describe": "",
+      "name": "大田",
+      "receiveDate": "2019-11-06T14:05:56.507",
+      "readDate": "2019-11-06T14:05:56.51",
+      "status": 1,
+      "FilesCount": 0,
+      "isHaveFile": true
+
+    },
+    {
+      "id": "a1370416-28ca-4dda-9daf-02faef570ef3",
+      "mail": "qianye@etek.com.cn",
+      "ParentId": "1a55a164-ccf8-4457-8645-bf157853c8c2",
+      "avatarUrl": "http://129.211.7.213/icon/3cd62149.jpg",
+
+      "isStar": false,
+      "Describe": "",
+      "name": "钱烨",
+      "receiveDate": "2019-11-06T14:05:34.77",
+      "readDate": "2019-11-06T14:05:34.773",
+      "status": 3,
+
+
+      "SuffixName": null,
+      "isHaveFile": true
+    },
+    {
+      "id": "dcbab96a-ee6a-4cfb-87ab-06a058a8da6f",
+      "mail": "shibo@etek.com.cn",
+      "ParentId": "3c1b5eff-bfe0-406f-9b3f-19682ec8b84c",
+      "avatarUrl": "http://129.211.7.213/icon/12ea6f6d.jpg",
+      "Rourcestatus": 1,
+      "isStar": false,
+      "Describe": "",
+      "name": "王云飞",
+      "receiveDate": "2019-11-04T16:18:36.707",
+      "readDate": "2019-11-04T16:18:36.71",
+      "status": 2,
+      "Size": null,
+      "isHaveFile": true
+    },
+    {
+      "id": "63802bd0-0cb3-4044-9f06-07e1432e911e",
+      "mail": "shibo@etek.com.cn",
+      "avatarUrl": "http://129.211.7.213/icon/babe491b.jpg",
+      "isStar": false,
+      "Describe": "",
+      "name": "石波",
+      "receiveDate": "2019-11-04T16:08:40.963",
+      "readDate": "2019-11-04T16:08:40.967",
+      "status": 3,
+      "FilesCount": 0,
+      "Size": null,
+      "isHaveFile": true
+    },
+    {
+      "id": "70c56cee-1d3f-43bf-b6a9-007806d6f1bc",
+      "mail": "shibo@etek.com.cn",
+      "avatarUrl": "http://129.211.7.213/icon/2259f722.jpg",
+      "Rourcestatus": 3,
+      "isStar": false,
+      "Describe": "",
+      "name": "王云飞",
+      "receiveDate": "2019-11-07T14:16:15.977",
+      "readDate": "2019-11-07T14:16:15.98",
+      "EditBy": "王云飞",
+      "status": 0,
+      "FilesCount": 0,
+      "Size": null,
+      "isHaveFile": true
+    },
+    {
+      "id": "d3eb56cd-2fd9-4531-bf50-01b183bedaa9",
+      "mail": "shibo@etek.com.cn",
+      "ParentId": "6e943aff-19b3-4e63-a232-fb527ea68e7b",
+      "IdentityId": 96,
+      "Parents": ",56,,86,,93,,94,,95,",
+      "sendMail": "ET9552  ",
+      "title": "ET9552  防浪涌电源过压保护电路",
+      "avatarUrl": "http://129.211.7.213/icon/12ea6f6d.jpg",
+
+      "isStar": false,
+      "Describe": "",
+      "name": "钱烨",
+      "receiveDate": "2019-11-06T14:05:56.507",
+      "readDate": "2019-11-06T14:05:56.51",
+      "EditBy": "陈庙",
+      "status": 0,
+
+      "FilesCount": 0,
+      "Size": null,
+      "FileId": "http://129.211.7.213/icon/12ea6f6d.jpg"
+
+    },
+    {
+      "id": "a1370416-28ca-4dda-9daf-02faef570ef3",
+      "mail": "shibo@etek.com.cn",
+      "ParentId": "1a55a164-ccf8-4457-8645-bf157853c8c2",
+      "IdentityId": 57,
+      "Parents": ",56,",
+      "sendMail": "ET9553  ",
+      "title": "ET9553 防浪涌电源过压保护电路",
+      "avatarUrl": "http://129.211.7.213/icon/12ea6f6d.jpg",
+      "Rourcestatus": 3,
+      "isStar": false,
+      "Describe": "",
+      "name": "石波",
+      "receiveDate": "2019-11-06T14:05:34.77",
+      "readDate": "2019-11-06T14:05:34.773",
+      "EditBy": "蔚蓝",
+      "status": 0,
+
+      "Permissionstatus": 0
+    },
+    {
+      "id": "dcbab96a-ee6a-4cfb-87ab-06a058a8da6f",
+      "mail": "shibo@etek.com.cn",
+      "ParentId": "3c1b5eff-bfe0-406f-9b3f-19682ec8b84c",
+      "IdentityId": 12,
+      "Parents": ",1,,9,",
+      "sendMail": "ET3138   ",
+      "title": "ET3138 低内阻负载开关",
+      "avatarUrl": "http://129.211.7.213/icon/12ea6f6d.jpg",
+      "Rourcestatus": 1,
+      "isStar": false,
+      "Describe": "",
+      "name": "石波",
+      "receiveDate": "2019-11-04T16:18:36.707",
+      "readDate": "2019-11-04T16:18:36.71",
+      "EditBy": "蔚蓝",
+      "status": 0,
+      "Permissionstatus": 0
+    },
+    {
+      "id": "63802bd0-0cb3-4044-9f06-07e1432e911e",
+      "mail": "shibo@etek.com.cn",
+      "ParentId": "1914aabb-487b-4f56-9dd2-1943c4ed99bb",
+      "IdentityId": 7,
+      "Parents": ",1,",
+      "sendMail": "ET531XX",
+      "title": "ET531XX 高精度超低噪声LDO",
+      "avatarUrl": "http://129.211.7.213/icon/12ea6f6d.jpg",
+      "Rourcestatus": 1,
+      "isStar": false,
+      "Describe": "",
+      "name": "石波",
+      "receiveDate": "2019-11-04T16:08:40.963",
+      "readDate": "2019-11-04T16:08:40.967",
+      "EditBy": "蔚蓝",
+      "status": 0,
+      "Permissionstatus": 0
+    }
+  ],
+  "total": 15
+}
+
+

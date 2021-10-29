@@ -1,0 +1,82 @@
+{
+  "id": "70c56cee-1d3f-43bf-b6a9-007806d6f1bc",
+  "sender": "王云飞",
+  "sendMail": "王云飞",
+  "title": "ET9562  TWS  耳机充电管理系统",
+  "content": "<p>我是收件测试数据我是收件测试数据</p><p><img class=\"wscnph\" src=\"https://rulifun.oss-cn-hangzhou.aliyuncs.com/vue-mail/welcome.gif\" data-wscntype=\"image\" data-wscnh=\"300\" data-wscnw=\"400\" data-mce-src=\"https://wpimg.wallstcn.com/4c69009c-0fd4-4153-b112-6cb53d1cf943\"></p>",
+  "Rourcestatus": 3,
+  "isStar": true,
+  "sendName": "王云飞",
+  "receiveDate": "2019-11-07T14:16:15.977",
+  "readDate": "2019-11-07T14:16:15.98",
+  "status": 0,
+  "Filestatus": 0,
+  "PictuerCount": 0,
+  "FilesCount": 0,
+  "isHaveAudio": true,
+  "isHaveFile": true,
+  "target" : [
+    {
+      "name": "蒋晟",
+      "mail": "jiangs@etek.com.cn"
+    },
+    {
+      "name": "龙猫",
+      "mail": "longmao@etek.com.cn"
+    },
+    {
+      "name": "琪琪",
+      "mail": "qiqi@etek.com.cn"
+    }
+  ],
+  "copy" : [
+    {
+      "name": "蒋晟",
+      "mail": "jiangs@etek.com.cn"
+    },
+    {
+      "name": "龙猫",
+      "mail": "longmao@etek.com.cn"
+    },
+    {
+      "name": "琪琪",
+      "mail": "qiqi@etek.com.cn"
+    }
+  ],
+  "labelList" : [
+    {
+      "guid": "1",
+      "name": "标签1"
+    },
+    {
+      "guid": "2",
+      "name": "标签2"
+    },
+    {
+      "guid": "3",
+      "name": "标签3"
+    }
+    ],
+  "oldFileList": [
+    {
+      "name": "第四届年度总选",
+      "url": "http://onh4i9vxw.bkt.clouddn.com/bq.jpg"
+    },
+    {
+      "name": "第四届年度总选",
+      "url": "http://onh4i9vxw.bkt.clouddn.com/bq.jpg"
+    }
+  ],
+  "oldAudioList": [
+    {
+      "name": "三无MarBlue - 星星和雨的夜.mp3",
+      "url": "http://or7rpa0sk.bkt.clouddn.com/%E4%B8%89%E6%97%A0MarBlue%20-%20%E6%98%9F%E6%98%9F%E5%92%8C%E9%9B%A8%E7%9A%84%E5%A4%9C.mp3"
+    },
+    {
+      "name": "三无MarBlue - 星星和雨的夜.mp3",
+      "url": "http://or7rpa0sk.bkt.clouddn.com/%E4%B8%89%E6%97%A0MarBlue%20-%20%E6%98%9F%E6%98%9F%E5%92%8C%E9%9B%A8%E7%9A%84%E5%A4%9C.mp3"
+    }
+  ]
+}
+
+

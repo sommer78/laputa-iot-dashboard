@@ -1,0 +1,633 @@
+[
+  {
+    "parentcategoryid": 0,
+    "edit": 0,
+    "undeployed": 1,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "商业管理类",
+    "categoryid": 1105
+  },
+  {
+    "parentcategoryid": 0,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 1,
+    "completed": 0,
+    "nodeName": "研发设计类",
+    "categoryid": 1117
+  },
+  {
+    "parentcategoryid": 0,
+    "edit": 0,
+    "undeployed": 3,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "行政管理类",
+    "categoryid": 1901
+  },
+  {
+    "parentcategoryid": 0,
+    "edit": 0,
+    "undeployed": 6,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "哈哈",
+    "categoryid": 2402
+  },
+  {
+    "parentcategoryid": 0,
+    "edit": 10,
+    "undeployed": 2,
+    "deployed": 21,
+    "completed": 5,
+    "nodeName": "测试分类",
+    "categoryid": 3201
+  },
+  {
+    "parentcategoryid": 0,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "临时创建",
+    "categoryid": 4901
+  },
+  {
+    "parentcategoryid": 1,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "哈哈2",
+    "categoryid": 3403
+  },
+  {
+    "parentcategoryid": 1,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "lzk",
+    "categoryid": 3739
+  },
+  {
+    "parentcategoryid": 1,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "test",
+    "categoryid": 3740
+  },
+  {
+    "parentcategoryid": 1,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "122",
+    "categoryid": 4201
+  },
+  {
+    "parentcategoryid": 1,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "招标材设类（模板包）",
+    "categoryid": 4602
+  },
+  {
+    "parentcategoryid": 1101,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "111",
+    "categoryid": 1102
+  },
+  {
+    "parentcategoryid": 1101,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "11",
+    "categoryid": 1103
+  },
+  {
+    "parentcategoryid": 1103,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "111",
+    "categoryid": 1104
+  },
+  {
+    "parentcategoryid": 1105,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "财务",
+    "categoryid": 1106
+  },
+  {
+    "parentcategoryid": 1105,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "销售",
+    "categoryid": 1109
+  },
+  {
+    "parentcategoryid": 1105,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "信息",
+    "categoryid": 1110
+  },
+  {
+    "parentcategoryid": 1105,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "运营",
+    "categoryid": 1111
+  },
+  {
+    "parentcategoryid": 1105,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "合同",
+    "categoryid": 1112
+  },
+  {
+    "parentcategoryid": 1105,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "重庆",
+    "categoryid": 1114
+  },
+  {
+    "parentcategoryid": 1105,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "长沙",
+    "categoryid": 1115
+  },
+  {
+    "parentcategoryid": 1105,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "成都",
+    "categoryid": 1121
+  },
+  {
+    "parentcategoryid": 1105,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "武汉",
+    "categoryid": 1122
+  },
+  {
+    "parentcategoryid": 1105,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "合同模板管理",
+    "categoryid": 1902
+  },
+  {
+    "parentcategoryid": 1106,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "税务",
+    "categoryid": 1107
+  },
+  {
+    "parentcategoryid": 1114,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "222",
+    "categoryid": 2801
+  },
+  {
+    "parentcategoryid": 1114,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "555",
+    "categoryid": 2902
+  },
+  {
+    "parentcategoryid": 1114,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "111",
+    "categoryid": 2903
+  },
+  {
+    "parentcategoryid": 1114,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "不能没有名称啊",
+    "categoryid": 2904
+  },
+  {
+    "parentcategoryid": 1117,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "解决哈哈啥哈",
+    "categoryid": 1601
+  },
+  {
+    "parentcategoryid": 1117,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 1,
+    "completed": 2,
+    "nodeName": "主合同",
+    "categoryid": 2701
+  },
+  {
+    "parentcategoryid": 1601,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "测试",
+    "categoryid": 2601
+  },
+  {
+    "parentcategoryid": 1902,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "商业管理类",
+    "categoryid": 1903
+  },
+  {
+    "parentcategoryid": 1902,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "研发设计类",
+    "categoryid": 1904
+  },
+  {
+    "parentcategoryid": 1902,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "招标材设类",
+    "categoryid": 1905
+  },
+  {
+    "parentcategoryid": 2402,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "总包",
+    "categoryid": 2403
+  },
+  {
+    "parentcategoryid": 2403,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "主合同",
+    "categoryid": 2404
+  },
+  {
+    "parentcategoryid": 2403,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "合同附件",
+    "categoryid": 2405
+  },
+  {
+    "parentcategoryid": 2403,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "工程标准",
+    "categoryid": 2406
+  },
+  {
+    "parentcategoryid": 2601,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "测试技术框架是否是",
+    "categoryid": 3001
+  },
+  {
+    "parentcategoryid": 2801,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "55555555555",
+    "categoryid": 2802
+  },
+  {
+    "parentcategoryid": 2801,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "222",
+    "categoryid": 2901
+  },
+  {
+    "parentcategoryid": 2802,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "6666666666",
+    "categoryid": 2803
+  },
+  {
+    "parentcategoryid": 3201,
+    "edit": 7,
+    "undeployed": 0,
+    "deployed": 3,
+    "completed": 3,
+    "nodeName": "222",
+    "categoryid": 3906
+  },
+  {
+    "parentcategoryid": 3201,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "5",
+    "categoryid": 3907
+  },
+  {
+    "parentcategoryid": 3201,
+    "edit": 0,
+    "undeployed": 6,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "6",
+    "categoryid": 3908
+  },
+  {
+    "parentcategoryid": 3201,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "附件迁移测试",
+    "categoryid": 4501
+  },
+  {
+    "parentcategoryid": 3201,
+    "edit": 6,
+    "undeployed": 0,
+    "deployed": 2,
+    "completed": 1,
+    "nodeName": "模板测试",
+    "categoryid": 4601
+  },
+  {
+    "parentcategoryid": 3201,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "11",
+    "categoryid": 4702
+  },
+  {
+    "parentcategoryid": 3201,
+    "edit": 0,
+    "undeployed": 1,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "测试1",
+    "categoryid": 4802
+  },
+  {
+    "parentcategoryid": 3403,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "11111",
+    "categoryid": 3708
+  },
+  {
+    "parentcategoryid": 3403,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "11113",
+    "categoryid": 3711
+  },
+  {
+    "parentcategoryid": 3403,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "test2",
+    "categoryid": 3721
+  },
+  {
+    "parentcategoryid": 3403,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "test2",
+    "categoryid": 3732
+  },
+  {
+    "parentcategoryid": 3403,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "test2",
+    "categoryid": 3733
+  },
+  {
+    "parentcategoryid": 3403,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "test2",
+    "categoryid": 3734
+  },
+  {
+    "parentcategoryid": 3403,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "test2",
+    "categoryid": 3735
+  },
+  {
+    "parentcategoryid": 3403,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "1",
+    "categoryid": 3743
+  },
+  {
+    "parentcategoryid": 3403,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "test99",
+    "categoryid": 3747
+  },
+  {
+    "parentcategoryid": 3403,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "test98",
+    "categoryid": 3748
+  },
+  {
+    "parentcategoryid": 3403,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "test97",
+    "categoryid": 3749
+  },
+  {
+    "parentcategoryid": 3403,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "test01",
+    "categoryid": 3802
+  },
+  {
+    "parentcategoryid": 3403,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "88",
+    "categoryid": 3909
+  },
+  {
+    "parentcategoryid": 3403,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "999",
+    "categoryid": 4002
+  },
+  {
+    "parentcategoryid": 3403,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "2",
+    "categoryid": 4202
+  },
+  {
+    "parentcategoryid": 3403,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "3",
+    "categoryid": 4203
+  },
+  {
+    "parentcategoryid": 3403,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "上升",
+    "categoryid": 4701
+  },
+  {
+    "parentcategoryid": 3740,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "222",
+    "categoryid": 3746
+  },
+  {
+    "parentcategoryid": 3743,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "1",
+    "categoryid": 3744
+  },
+  {
+    "parentcategoryid": 4201,
+    "edit": 0,
+    "undeployed": 0,
+    "deployed": 0,
+    "completed": 0,
+    "nodeName": "77777",
+    "categoryid": 4404
+  }
+]
+

@@ -1,0 +1,501 @@
+{
+  "code": 200,
+  "message": "操作成功",
+  "callbacktype": null,
+  "data": [
+    {
+      "name": "项目文档管理",
+      "keyCode": "ATS_BASE_V",
+      "type": "1",
+      "typeTxt": "添加",
+      "function": "0",
+      "code": "D0101001",
+      "children": [{
+        "name": "规划阶段",
+        "parentId": "D0101001",
+        "keyCode": "ATS_BASE_E",
+        "type": "2",
+        "function": "0",
+        "code": "D0201002",
+        "children": [{
+          "name": "市场调研报告",
+          "parentId": "D0201002",
+          "keyCode": "ATS_LOCA_E",
+          "type": "2",
+          "function": "0",
+          "code": "D0202002",
+          "children": [],
+          "id": "D0302002"
+        },
+          {
+            "name": "产品分析报告",
+            "parentId": "D0202001",
+            "keyCode": "ATS_LOCA_E",
+            "type": "2",
+            "function": "0",
+            "code": "D0202003",
+            "children": [],
+            "id": "D0302003"
+          }
+        ],
+        "id": "D0201002"
+
+      },
+        {
+          "name": "设计阶段",
+          "keyCode": "ATS_LOCA_V",
+          "type": "1",
+          "typeTxt": "添加",
+          "function": "0",
+          "code": "D0301001",
+          "children": [{
+            "name": "产品立项书",
+            "parentId": "D0301001",
+            "keyCode": "ATS_LOCA_E",
+            "type": "2",
+            "function": "0",
+            "code": "D0202002",
+            "children": [],
+            "id": "D0202002"
+          },
+            {
+              "name": "产品规格书",
+              "parentId": "D0201003",
+              "keyCode": "ATS_LOCA_E",
+              "type": "2",
+              "function": "0",
+              "code": "D0202003",
+              "children": [],
+              "id": "D020200339"
+            },
+            {
+              "name": "顶层结构图",
+              "parentId": "D0201003",
+              "keyCode": "ATS_LOCA_E",
+              "type": "2",
+              "function": "0",
+              "code": "D0202004",
+              "children": [],
+              "id": "D020200278"
+            },
+            {
+              "name": "逻辑线路图",
+              "parentId": "D0201003",
+              "keyCode": "ATS_LOCA_E",
+              "type": "2",
+              "function": "0",
+              "code": "D0202004",
+              "children": [],
+              "id": "D02020024"
+            },
+            {
+              "name": "仿真数据",
+              "parentId": "D0201003",
+              "keyCode": "ATS_LOCA_E",
+              "type": "2",
+              "function": "0",
+              "code": "D0202004",
+              "children": [],
+              "id": "D02020025"
+            },
+            {
+              "name": "RTL例图",
+              "parentId": "D0201003",
+              "keyCode": "ATS_LOCA_E",
+              "type": "2",
+              "function": "0",
+              "code": "D0202004",
+              "children": [],
+              "id": "D02020026"
+            },
+
+            {
+              "name": "设计工艺书",
+              "parentId": "D0201003",
+              "keyCode": "ATS_LOCA_E",
+              "type": "2",
+              "function": "0",
+              "code": "D0202004",
+              "children": [],
+              "id": "D02020027"
+            },
+            {
+              "name": "芯片版图",
+              "parentId": "D0201003",
+              "keyCode": "ATS_LOCA_E",
+              "type": "2",
+              "function": "0",
+              "code": "D0202004",
+              "children": [],
+              "id": "D02020028"
+            },
+            {
+              "name": "IP版图",
+              "parentId": "D0201003",
+              "keyCode": "ATS_LOCA_E",
+              "type": "2",
+              "function": "0",
+              "code": "D0202004",
+              "children": [],
+              "id": "D02020029"
+            },
+            {
+              "name": "测试方案",
+              "parentId": "D0201003",
+              "keyCode": "ATS_LOCA_E",
+              "type": "2",
+              "function": "0",
+              "code": "D0202004",
+              "children": [],
+              "id": "D02020030"
+            },
+            {
+              "name": "测试软件",
+              "parentId": "D0201003",
+              "keyCode": "ATS_LOCA_E",
+              "type": "2",
+              "function": "0",
+              "code": "D0202004",
+              "children": [],
+              "id": "D02020031"
+            },
+            {
+              "name": "测试PCB图",
+              "parentId": "D0201003",
+              "keyCode": "ATS_LOCA_E",
+              "type": "2",
+              "function": "0",
+              "code": "D0202004",
+              "children": [],
+              "id": "D02020032"
+            },
+            {
+              "name": "应用软件",
+              "parentId": "D0201003",
+              "keyCode": "ATS_LOCA_E",
+              "type": "2",
+              "function": "0",
+              "code": "D0202004",
+              "children": [],
+              "id": "D02020033"
+            },
+            {
+              "name": "应用原理图",
+              "parentId": "D0201003",
+              "keyCode": "ATS_LOCA_E",
+              "type": "2",
+              "function": "0",
+              "code": "D0202004",
+              "children": [],
+              "id": "D02020034"
+            }
+          ],
+          "id": "D0201003"
+        },
+        {
+          "name": "测试阶段",
+          "keyCode": "ATS_LOCA_V",
+          "type": "1",
+          "typeTxt": "添加",
+          "function": "0",
+          "code": "D0202001",
+          "children": [{
+            "name": "产品立项书",
+            "parentId": "D0202001",
+            "keyCode": "ATS_LOCA_E",
+            "type": "2",
+            "function": "0",
+            "code": "D0202002",
+            "children": [],
+            "id": "D02020040"
+          },
+            {
+              "name": "产品规格书",
+              "parentId": "D0202001",
+              "keyCode": "ATS_LOCA_E",
+              "type": "2",
+              "function": "0",
+              "code": "D0202003",
+              "children": [],
+              "id": "D02020041"
+            },
+            {
+              "name": "逻辑线路图",
+              "parentId": "D0202001",
+              "keyCode": "ATS_LOCA_E",
+              "type": "2",
+              "function": "0",
+              "code": "D0202004",
+              "children": [],
+              "id": "D02020042"
+            },
+            {
+              "name": "电路原理图",
+              "parentId": "D0202001",
+              "keyCode": "ATS_LOCA_E",
+              "type": "2",
+              "function": "0",
+              "code": "D0202004",
+              "children": [],
+              "id": "D02020043"
+            }
+          ],
+          "id": "D0202001"
+        },
+        {
+          "name": "试生产阶段",
+          "keyCode": "ATS_LOCA_V",
+          "type": "1",
+          "typeTxt": "添加",
+          "function": "0",
+          "code": "D0202001",
+          "children": [{
+            "name": "产品立项书",
+            "parentId": "D0202001",
+            "keyCode": "ATS_LOCA_E",
+            "type": "2",
+            "function": "0",
+            "code": "D0202002",
+            "children": [],
+            "id": "D02020044"
+          },
+            {
+              "name": "产品规格书",
+              "parentId": "D0202001",
+              "keyCode": "ATS_LOCA_E",
+              "type": "2",
+              "function": "0",
+              "code": "D0202003",
+              "children": [],
+              "id": "D02020045"
+            },
+            {
+              "name": "逻辑线路图",
+              "parentId": "D0202001",
+              "keyCode": "ATS_LOCA_E",
+              "type": "2",
+              "function": "0",
+              "code": "D0202004",
+              "children": [],
+              "id": "D02020046"
+            },
+            {
+              "name": "电路原理图",
+              "parentId": "D0202001",
+              "keyCode": "ATS_LOCA_E",
+              "type": "2",
+              "function": "0",
+              "code": "D0202004",
+              "children": [],
+              "id": "D02020047"
+            }
+          ],
+          "id": "D0602001"
+        },
+        {
+          "name": "量产阶段",
+          "keyCode": "ATS_LOCA_V",
+          "type": "1",
+          "typeTxt": "添加",
+          "function": "0",
+          "code": "D0202001",
+          "children": [{
+            "name": "产品立项书",
+            "parentId": "D0202001",
+            "keyCode": "ATS_LOCA_E",
+            "type": "2",
+            "function": "0",
+            "code": "D0202002",
+            "children": [],
+            "id": "D020200211"
+          },
+            {
+              "name": "产品规格书",
+              "parentId": "D0202001",
+              "keyCode": "ATS_LOCA_E",
+              "type": "2",
+              "function": "0",
+              "code": "D0202003",
+              "children": [],
+              "id": "D020200212"
+            },
+            {
+              "name": "逻辑线路图",
+              "parentId": "D0202001",
+              "keyCode": "ATS_LOCA_E",
+              "type": "2",
+              "function": "0",
+              "code": "D0202004",
+              "children": [],
+              "id": "D020200213"
+            },
+            {
+              "name": "电路原理图",
+              "parentId": "D0202001",
+              "keyCode": "ATS_LOCA_E",
+              "type": "2",
+              "function": "0",
+              "code": "D0202004",
+              "children": [],
+              "id": "D020200214"
+            }
+          ],
+          "id": "D0702001"
+        },
+        {
+          "name": "其他文件",
+          "keyCode": "ATS_LOCA_V",
+          "type": "1",
+          "typeTxt": "添加",
+          "function": "0",
+          "code": "D0202001",
+          "children": [{
+            "name": "产品立项书",
+            "parentId": "D0202001",
+            "keyCode": "ATS_LOCA_E",
+            "type": "2",
+            "function": "0",
+            "code": "D0202002",
+            "children": [],
+            "id": "D020200215"
+          },
+            {
+              "name": "产品规格书",
+              "parentId": "D0202001",
+              "keyCode": "ATS_LOCA_E",
+              "type": "2",
+              "function": "0",
+              "code": "D0202003",
+              "children": [],
+              "id": "D020200216"
+            },
+            {
+              "name": "逻辑线路图",
+              "parentId": "D0202001",
+              "keyCode": "ATS_LOCA_E",
+              "type": "2",
+              "function": "0",
+              "code": "D0202004",
+              "children": [],
+              "id": "D020200217"
+            },
+            {
+              "name": "电路原理图",
+              "parentId": "D0202001",
+              "keyCode": "ATS_LOCA_E",
+              "type": "2",
+              "function": "0",
+              "code": "D0202004",
+              "children": [],
+              "id": "D020200218"
+            }
+          ],
+          "id": "D0802001"
+        },
+        {
+          "name": "参考文件",
+          "keyCode": "ATS_LOCA_V",
+          "type": "1",
+          "typeTxt": "添加",
+          "function": "0",
+          "code": "D0202001",
+          "children": [{
+            "name": "产品立项书",
+            "parentId": "D0202001",
+            "keyCode": "ATS_LOCA_E",
+            "type": "2",
+            "function": "0",
+            "code": "D0202002",
+            "children": [],
+            "id": "D020200221"
+          },
+            {
+              "name": "产品规格书",
+              "parentId": "D0202001",
+              "keyCode": "ATS_LOCA_E",
+              "type": "2",
+              "function": "0",
+              "code": "D0202003",
+              "children": [],
+              "id": "D020200222"
+            },
+            {
+              "name": "逻辑线路图",
+              "parentId": "D0202001",
+              "keyCode": "ATS_LOCA_E",
+              "type": "2",
+              "function": "0",
+              "code": "D0202004",
+              "children": [],
+              "id": "D020200223"
+            },
+            {
+              "name": "电路原理图",
+              "parentId": "D0202001",
+              "keyCode": "ATS_LOCA_E",
+              "type": "2",
+              "function": "0",
+              "code": "D0202004",
+              "children": [],
+              "id": "D020200224"
+            }
+          ],
+          "id": "D0902001"
+        },
+        {
+          "name": "文档模板",
+          "keyCode": "ATS_LOCA_V",
+          "type": "1",
+          "typeTxt": "添加",
+          "function": "0",
+          "code": "D0202001",
+          "children": [{
+            "name": "产品立项书",
+            "parentId": "D0202001",
+            "keyCode": "ATS_LOCA_E",
+            "type": "2",
+            "function": "0",
+            "code": "D0202002",
+            "children": [],
+            "id": "D020200225"
+          },
+            {
+              "name": "产品规格书",
+              "parentId": "D0202001",
+              "keyCode": "ATS_LOCA_E",
+              "type": "2",
+              "function": "0",
+              "code": "D0202003",
+              "children": [],
+              "id": "D020200226"
+            },
+            {
+              "name": "逻辑线路图",
+              "parentId": "D0202001",
+              "keyCode": "ATS_LOCA_E",
+              "type": "2",
+              "function": "0",
+              "code": "D0202004",
+              "children": [],
+              "id": "D020200227"
+            },
+            {
+              "name": "电路原理图",
+              "parentId": "D0202001",
+              "keyCode": "ATS_LOCA_E",
+              "type": "2",
+              "function": "0",
+              "code": "D0202004",
+              "children": [],
+              "id": "D020200228"
+            }
+          ],
+          "id": "D1002001"
+        }
+
+      ],
+      "id": "D0101001"
+    }
+
+  ]
+}

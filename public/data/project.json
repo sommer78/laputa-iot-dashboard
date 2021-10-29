@@ -1,0 +1,125 @@
+[
+  {
+    "id": "70c56cee-1d3f-43bf-b6a9-007806d6f1bc",
+    "parentId": "4a1cf9d9-9662-4e76-882b-34d78ca1537f",
+    "identityid": 119,
+    "name": "ET6280/ET6282",
+    "description": "8×8/8×12 恒流LED点阵式驱动，每个点都有256阶PWM调光。",
+    "proStatus": 1,
+    "ISAllVisible": false,
+
+    "userName": "史良俊",
+    "createTime": "2019-04-03",
+    "endTime": "2019-09-05",
+    "progress": 100,
+    "status": "已完成",
+    "permission": 0
+  },
+  {
+    "id": "d3eb56cd-2fd9-4531-bf50-01b183bedaa9",
+    "parentId": "6e943aff-19b3-4e63-a232-fb527ea68e7b",
+    "name": "ET2520D",
+    "description": "CFL（Compact Fluorescent Lighting） ET2520D 是一款具有完整自适应能力、应用于600V高压半桥驱动的电子镇流芯片。",
+    "userName": "赵成功",
+    "createTime": "2019-06-01",
+    "endTime": "2019-12-01",
+    "proStatus": 1,
+    "progress": 100,
+    "status": "已完成",
+    "permission": 0
+  },
+  {
+    "id": "a1370416-28ca-4dda-9daf-02faef570ef3",
+    "parentId": "1a55a164-ccf8-4457-8645-bf157853c8c2",
+
+    "name": "ET6625",
+    "description": "64SEG×8COM LCD driver",
+    "userName": "王国鹏",
+    "createTime": "2019-04-01",
+    "endTime": "2019-11-01",
+
+    "proStatus": 1,
+    "progress": 100,
+
+    "status": "已完成",
+    "permission": 0
+  },
+  {
+    "id": "dcbab96a-ee6a-4cfb-87ab-06a058a8da6f",
+    "parentId": "3c1b5eff-bfe0-406f-9b3f-19682ec8b84c",
+    "name": "ET8215",
+    "description": "ET8215 2.5MHz准固定频率同步型Boost稳压器，输出电压为5.0V，考虑为NFC驱动电源。熔丝烧写Fuse2<0>，可以实现ET8218，输出电压为5.25V。",
+    "userName": "黄星星",
+    "createTime": "2019-06-01",
+    "endTime": "--",
+    "proStatus": 3,
+    "progress": 20,
+    "status": "延误中",
+    "permission": 0
+  },
+  {
+    "id": "63802bd0-0cb3-4044-9f06-07e1432e911e",
+    "parentId": "1914aabb-487b-4f56-9dd2-1943c4ed99bb",
+    "name": "ET53312-PCN/ET53412",
+    "description": "ET53312 LDO系列转东部工艺生产并提高电路瞬态响应能力。",
+    "userName": "吴相俊",
+    "createTime": "2019-05-20",
+    "endTime": "2019-10-30",
+    "proStatus": 1,
+    "progress": 100,
+    "status": "已完成",
+    "permission": 0
+  },
+  {
+    "id": "63802bd0-0cb3-4044-9f06-07e1432e911e",
+    "parentId": "1914aabb-487b-4f56-9dd2-1943c4ed99bb",
+    "name": "ET3157A",
+    "description": "ET3157提高带宽",
+    "userName": "吴相俊",
+    "createTime": "2019-08-01",
+    "endTime": "--",
+    "proStatus": 0,
+    "progress": 45,
+    "status": "进行中",
+    "permission": 0
+  },
+  {
+    "id": "63802bd0-0cb3-4044-9f06-07e1432e911e",
+    "name": "ET7230",
+    "description": "USB2.0开关，兼容型号FUSB30。华为咨询物料。参加自己的MPW准备样品。可小规模供货。",
+    "userName": "吴相俊",
+    "createTime": "2019-10-15",
+    "endTime": "--",
+    "proStatus": 2,
+    "progress": 60,
+    "status": "进行中",
+    "permission": 0
+  },
+  {
+    "id": "63802bd0-0cb3-4044-9f06-07e1432e911e",
+    "name": "ET9539AM",
+    "description": "ICD1875 高压OVP保护器件 160V surge single OVP",
+    "userName": "周庆",
+    "createTime": "2019-08-01",
+    "endTime": "--",
+    "proStatus": 0,
+    "progress": 75,
+    "status": "进行中",
+    "permission": 0
+  },
+  {
+      "id": "63802bd0-0cb3-4044-9f06-07e1432e911e",
+     "name": "ET5132",
+    "description": "高效率背光产品双路boost背光，三星用KTD3102（QFN16封装），另功能兼容TPS61163（CSP9封装）。",
+
+    "userName": "吴相俊",
+    "createTime": "2019-11-04",
+    "endTime": "--",
+
+    "proStatus": 0,
+
+    "progress": 60,
+    "status": "进行中",
+    "permission": 0
+  }
+]

@@ -1,0 +1,19 @@
+version: '3'
+services:
+  laputa-iot-dashboard:
+    build:
+      context: .
+    restart: always
+    container_name: laputa-iot-dashboard
+    image: laputa-iot-dashboard
+    networks:
+      - laputa
+    external_links:
+      - laputa-gateway
+    ports:
+      - 80:80
+
+# 加入到后端网络， 默认为 laputa  | docker network ls   查看
+networks:
+  laputa:
+    external: true

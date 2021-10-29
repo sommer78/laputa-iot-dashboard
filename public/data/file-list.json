@@ -1,0 +1,405 @@
+{
+  "code": 200,
+  "message": "操作成功",
+  "data": [
+    {
+      "id": "1914aabb-487b-4f56-9dd2-1943c4ed99bb",
+      "projectid": "bab2cc5d-30a0-4410-8b1f-2aabfd5cbc18",
+      "parentid": "00000000-0000-0000-0000-000000000000",
+      "identityid": 1,
+      "parents": "",
+      "fileName": "1608e7b476d144dbbc0a9cdfa5e7ed4e.pdf",
+      "bucket": "laputa",
+      "name": "ET4007YD产品规格书.docx",
+      "rourceid": "00000000-0000-0000-0000-000000000000",
+      "wbsid": "00000000-0000-0000-0000-000000000000",
+      "rourcetype": 1,
+      "isallvisible": false,
+      "describe": "ET4007YD产品规格书",
+      "createUsername": "谢凌寒",
+      "createTime": "2019-11-01t09:29:44.79",
+      "edittime": "2019-11-07t17:34:44.383",
+      "editby": "谢凌寒",
+      "type": 2,
+      "filetype": 1,
+      "pictuercount": 0,
+      "filescount": 0,
+      "size": 142000,
+      "fileid": "00000000-0000-0000-0000-000000000000",
+      "suffix": "doc",
+      "isLock": true,
+      "permissiontype": 10,
+      "product": "ET4007YD-192033",
+      "status": 3,
+      "version": "A.2.5",
+      "keywords":  [
+        {
+          "id": "1",
+          "name": "规格书"
+        },
+        {
+          "id": "2",
+          "name": "ET4007YD"
+        }
+      ]
+    },
+    {
+      "id": "1a55a164-ccf8-4457-8645-bf157853c8c2",
+      "projectid": "bab2cc5d-30a0-4410-8b1f-2aabfd5cbc18",
+      "parentid": "00000000-0000-0000-0000-000000000000",
+      "identityid": 56,
+      "parents": "",
+      "name": "ET533XX产品规格书.docx",
+      "rourceid": "00000000-0000-0000-0000-000000000000",
+      "wbsid": "00000000-0000-0000-0000-000000000000",
+      "rourcetype": 3,
+      "isallvisible": false,
+      "describe": "ET533XX产品规格书",
+      "createUsername": "潘小丽",
+      "createTime": "2019-11-06t14:05:34.743",
+      "edittime": "2019-11-06t14:05:34.75",
+      "editby": "潘小丽",
+      "isLock": true,
+      "isCheckout": true,
+      "isAudit": true,
+      "type": 2,
+      "filetype": 1,
+      "pictuercount": 0,
+      "filescount": 0,
+      "size": 145000,
+      "fileid": "00000000-0000-0000-0000-000000000000",
+      "suffix": "doc",
+      "permissiontype": 20,
+      "product": "ET533XX",
+      "status": 3,
+      "version": "A.2.1",
+      "keywords":  [
+        {
+          "id": "1",
+          "name": "规格书"
+        }
+      ]
+    },
+
+    {
+      "id": "6f1627f9-7685-4143-90b6-e337d32bd1c2",
+      "projectid": "bab2cc5d-30a0-4410-8b1f-2aabfd5cbc18",
+      "parentid": "00000000-0000-0000-0000-000000000000",
+      "identityid": 143,
+      "parents": "",
+      "name": "ET55112产品规格书.docx",
+      "rourcetype": 1,
+      "isallvisible": false,
+      "describe": "ET55112产品规格书",
+      "createUsername": "孙元良",
+      "createTime": "2019-11-07t16:35:23.487",
+      "edittime": "2019-11-07t16:35:23.49",
+      "editby": "孙元良",
+      "type": 2,
+      "filetype": 1,
+      "pictuercount": 0,
+      "filescount": 0,
+      "size": 120000,
+      "fileid": "00000000-0000-0000-0000-000000000000",
+      "suffix": "doc",
+      "permissiontype": 20,
+      "product": "ET55112",
+      "status": 2,
+      "version": "A.2.1",
+      "keywords":  [
+        {
+          "id": "1",
+          "name": "规格书"
+        }
+      ]
+    },
+    {
+      "id": "fd3125ed-01c6-40e6-b4fe-176bddc47199",
+      "projectid": "bab2cc5d-30a0-4410-8b1f-2aabfd5cbc18",
+      "parentid": "00000000-0000-0000-0000-000000000000",
+      "identityid": 149,
+      "parents": "",
+      "name": "ET55123产品规格书.docx",
+      "rourceid": "00000000-0000-0000-0000-000000000000",
+      "wbsid": "00000000-0000-0000-0000-000000000000",
+      "rourcetype": 1,
+      "isallvisible": false,
+      "describe": "ET55123产品规格书",
+      "createUsername": "孙元良",
+      "createTime": "2019-11-07t17:19:33.63",
+      "edittime": "2019-11-07t17:19:33.633",
+      "editby": "孙元良",
+      "type": 2,
+      "filetype": 1,
+      "pictuercount": 0,
+      "filescount": 0,
+      "size": 345000,
+      "fileid": "00000000-0000-0000-0000-000000000000",
+      "suffix": "doc",
+      "permissiontype": 20,
+      "status": 0,
+      "version": "A.1.3",
+      "keywords":  [
+        {
+          "id": "1",
+          "name": "规格书"
+        }
+      ]
+    },
+    {
+      "id": "faabd5c6-434d-4feb-9313-71dbeccac636",
+      "projectid": "00000000-0000-0000-0000-000000000000",
+      "parentid": "00000000-0000-0000-0000-000000000000",
+      "identityid": 0,
+      "parents": null,
+      "name": "ET6034产品规格书.docx",
+      "rourceid": "00000000-0000-0000-0000-000000000000",
+      "wbsid": "00000000-0000-0000-0000-000000000000",
+      "rourcetype": 1,
+      "isallvisible": false,
+      "describe": "ET6034产品规格书",
+      "createUsername": "潘小丽",
+      "createTime": "2019-11-05t19:40:51.763",
+      "edittime": "2019-11-05t19:40:51.77",
+      "editby": "潘小丽",
+      "type": 2,
+      "filetype": 1,
+      "pictuercount": 0,
+      "filescount": 0,
+      "size": 110000,
+      "fileid": "d9e548de-5f5d-47d0-bb94-de137c324118",
+      "suffix": "doc",
+      "permissiontype": 0,
+      "product": "ET6034",
+      "status": 1,
+      "version": "A.1.3",
+      "keywords":  [
+        {
+          "id": "1",
+          "name": "规格书"
+        }
+      ]
+    },
+    {
+      "id": "d6f56615-09a4-4518-b8fa-864c03b36f33",
+      "projectid": "00000000-0000-0000-0000-000000000000",
+      "parentid": "00000000-0000-0000-0000-000000000000",
+      "identityid": 0,
+      "parents": null,
+      "name": "ET6115产品规格书.docx",
+      "rourceid": "00000000-0000-0000-0000-000000000000",
+      "wbsid": "00000000-0000-0000-0000-000000000000",
+      "rourcetype": 1,
+      "isallvisible": false,
+      "describe": "ET6115产品规格书",
+      "createUsername": "孙元良",
+      "createTime": "2019-11-05t19:40:52.267",
+      "edittime": "2019-11-05t19:40:52.27",
+      "editby": "孙元良",
+      "type": 2,
+      "filetype": 1,
+      "pictuercount": 0,
+      "filescount": 0,
+      "size": 245000,
+      "fileid": "7d02335c-42fa-440e-a158-404b6bb09f37",
+      "suffix": "doc",
+      "permissiontype": 0,
+      "product": "ET6115",
+      "status": 3,
+      "version": "A.2.8",
+      "keywords":  [
+        {
+          "id": "1",
+          "name": "规格书"
+        },
+        {
+          "id": "2",
+          "name": "ET6115"
+        }
+      ]
+    },
+    {
+      "id": "6b370028-6cb9-4ece-83fb-90888e11c06f",
+      "projectid": "00000000-0000-0000-0000-000000000000",
+      "parentid": "00000000-0000-0000-0000-000000000000",
+      "identityid": 0,
+      "parents": null,
+      "name": "ET6208-产品规格书.docx",
+      "rourceid": "00000000-0000-0000-0000-000000000000",
+      "wbsid": "00000000-0000-0000-0000-000000000000",
+      "rourcetype": 1,
+      "isallvisible": false,
+      "describe":"ET6208-产品规格书.docx",
+      "createUsername": "潘小丽",
+      "createTime": "2019-11-05t19:40:52.927",
+      "edittime": "2019-11-05t19:40:52.93",
+      "editby": "潘小丽",
+      "type": 2,
+      "filetype": 1,
+      "pictuercount": 0,
+      "filescount": 0,
+      "size": 265000,
+      "fileid": "f166a456-7e02-4a88-972d-e4aec3af8a8b",
+      "suffix": "doc",
+      "permissiontype": 0,
+      "product": "ET6208",
+      "status": 3,
+      "version": "A.2.6",
+      "keywords":  [
+        {
+          "id": "1",
+          "name": "规格书"
+        },
+        {
+          "id": "2",
+          "name": "ET6208"
+        }
+      ]
+    },
+    {
+      "id": "45352652-558a-49f4-94ef-d45c4200b411",
+      "projectid": "00000000-0000-0000-0000-000000000000",
+      "parentid": "00000000-0000-0000-0000-000000000000",
+      "identityid": 0,
+      "parents": null,
+      "name": "ET6219-产品规格书.docx",
+      "rourceid": "00000000-0000-0000-0000-000000000000",
+      "wbsid": "00000000-0000-0000-0000-000000000000",
+      "rourcetype": 1,
+      "isallvisible": false,
+      "describe": "ET6219-产品规格书.docx",
+      "createUsername": "潘小丽",
+      "createTime": "2019-11-05t19:43:01.693",
+      "edittime": "2019-11-05t19:43:01.697",
+      "editby": "潘小丽",
+      "type": 2,
+      "filetype": 4,
+      "pictuercount": 0,
+      "filescount": 0,
+      "size": 220000,
+      "fileid": "59dad23e-9771-42ec-a9b8-91cd9a595eb6",
+      "suffix": "doc",
+      "permissiontype": 0,
+      "product": "ET6219",
+      "status": 3,
+      "version": "A.2.5",
+      "keywords":  [
+        {
+          "id": "1",
+          "name": "规格书"
+        },
+        {
+          "id": "2",
+          "name": "ET6219"
+        }
+      ]
+    },
+    {
+      "id": "970bfa44-3fbb-4f35-ac92-b36d237d9ab0",
+      "projectid": "00000000-0000-0000-0000-000000000000",
+      "parentid": "00000000-0000-0000-0000-000000000000",
+      "identityid": 0,
+      "parents": null,
+      "name": "ET6296-产品规格书.docx",
+      "rourceid": "00000000-0000-0000-0000-000000000000",
+      "wbsid": "00000000-0000-0000-0000-000000000000",
+      "rourcetype": 1,
+      "isallvisible": false,
+      "describe": "ET6296-产品规格书.docx",
+      "createUsername": "潘小丽",
+      "createTime": "2019-11-05t19:45:30.417",
+      "edittime": "2019-11-05t19:45:30.42",
+      "editby": "潘小丽",
+      "type": 2,
+      "filetype": 5,
+      "pictuercount": 0,
+      "filescount": 0,
+      "size": 269000,
+      "fileid": "56199198-7652-4a15-b9a8-b46d3a44f8cc",
+      "suffix": "docx",
+      "permissiontype": 0,
+      "product": "ET6296",
+      "status": 3,
+      "version": "A.2.6",
+      "keywords":  [
+        {
+          "id": "1",
+          "name": "规格书"
+        },
+        {
+          "id": "2",
+          "name": "ET6296"
+        }
+      ]
+    },
+    {
+      "id": "4a702ac6-844e-4939-a405-87491a108072",
+      "projectid": "00000000-0000-0000-0000-000000000000",
+      "parentid": "00000000-0000-0000-0000-000000000000",
+      "identityid": 0,
+      "parents": null,
+      "name": "ET6326-产品规格书.docx",
+      "rourceid": "00000000-0000-0000-0000-000000000000",
+      "wbsid": "00000000-0000-0000-0000-000000000000",
+      "rourcetype": 1,
+      "isallvisible": false,
+      "describe": "ET6326-产品规格书.docx",
+      "createUsername": "潘小丽",
+      "createTime": "2019-11-05t19:47:21.583",
+      "edittime": "2019-11-05t19:47:21.587",
+      "editby": "潘小丽",
+      "type": 2,
+      "filetype": 1,
+      "pictuercount": 0,
+      "filescount": 0,
+      "size": 120000,
+      "fileid": "d1f1d157-1a6a-4e65-8c65-9b661dbdb5ff",
+      "suffix": "doc",
+      "permissiontype": 0,
+      "product": "ET6326",
+      "status": 3,
+      "version": "A.2.10",
+      "keywords":  [
+        {
+          "id": "1",
+          "name": "规格书"
+        }
+      ]
+    },
+    {
+      "id": "4a702ac6-8449-4939-a405-87491a108072",
+      "projectid": "00000000-0000-0000-0000-000000000000",
+      "parentid": "00000000-0000-0000-0000-000000000000",
+      "identityid": 0,
+      "parents": null,
+      "name": "ET6326-产品规格书",
+      "rourceid": "00000000-0000-0000-0000-000000000000",
+      "wbsid": "00000000-0000-0000-0000-000000000000",
+      "rourcetype": 1,
+      "isallvisible": false,
+      "describe": "ET6326-产品规格书.docx",
+      "createUsername": "潘小丽",
+      "createTime": "2019-11-05t19:47:21.583",
+      "edittime": "2019-11-05t19:47:21.587",
+      "editby": "潘小丽",
+      "type": 1,
+      "filetype": 2,
+      "pictuercount": 0,
+      "filescount": 0,
+      "size": 120000,
+      "fileid": "d1f1d157-1a6a-4e65-8c65-9b661dbdb5ff",
+      "suffix": "doc",
+      "permissiontype": 0,
+      "product": "ET6326",
+      "status": 3,
+      "version": "A.2.10",
+      "keywords":  [
+        {
+          "id": "1",
+          "name": "规格书"
+        }
+      ]
+    }
+
+  ]
+}

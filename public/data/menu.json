@@ -1,0 +1,176 @@
+[
+  {
+    "icon": "tachometer",
+    "title": "系统管理",
+    "path": "/admin",
+    "children": [
+      {
+        "icon": "home",
+        "title": "通用管理",
+        "path": "/admin",
+        "children": [
+          {
+            "icon": "user-o",
+            "title": "用户管理",
+            "path": "/admin/user/index"
+          },
+          {
+            "icon": "navicon",
+            "title": "菜单管理",
+            "path": "/admin/menu/index"
+          },
+          {
+            "icon": "street-view",
+            "title": "角色管理",
+            "path": "/admin/role/index"
+          },
+          {
+            "icon": "address-card",
+            "title": "部门管理",
+            "path": "/admin/dept/index"
+          },
+          {
+            "icon": "users",
+            "title": "用户组管理",
+            "path": "/admin/group/index"
+          },
+          {
+            "icon": "hand-paper-o",
+            "title": "权限管理",
+            "path": "/admin/permission/index"
+          }
+        ]
+      },
+      {
+        "icon": "cogs",
+        "title": "系统设置",
+        "path": "/system",
+        "children": [
+          {
+            "icon": "newspaper-o",
+            "title": "日志管理",
+            "path": "/admin/log/index"
+          },
+          {
+            "icon": "file",
+            "title": "文件管理",
+            "path": "/admin/file/index"
+          },
+          {
+            "icon": "book",
+            "title": "字典管理",
+            "path": "/admin/dict/index"
+          },
+          {
+            "icon": "cog",
+            "title": "参数管理",
+            "path": "/admin/param/index"
+          },
+          {
+            "icon": "wordpress",
+            "title": "Quartz管理",
+            "path": "/daemon/job-manage/index"
+          },
+          {
+            "icon": "object-group",
+            "title": "终端管理",
+            "path": "/admin/client/index"
+          },
+          {
+            "icon": "key",
+            "title": "密钥管理",
+            "path": "/admin/social/index"
+          },
+          {
+            "icon": "filter",
+            "title": "令牌管理",
+            "path": "/admin/token/index"
+          },
+          {
+            "icon": "code-fork",
+            "title": "动态路由",
+            "path": "/admin/route/index"
+          }
+        ]
+      },
+      {
+        "icon": "refresh",
+        "title": "流程管理",
+        "path": "/activiti",
+        "children": [
+          {
+            "icon": "inbox",
+            "title": "模型管理",
+            "path": "/activiti/index"
+          },
+          {
+            "icon": "history",
+            "title": "流程管理",
+            "path": "/activiti/process"
+          },
+          {
+            "icon": "globe",
+            "title": "请假管理",
+            "path": "/activiti/leave"
+          },
+          {
+            "icon": "list-ol",
+            "title": "待办任务",
+            "path": "/activiti/task"
+          }
+        ]
+      },
+      {
+        "icon": "file",
+        "title": "文档管理",
+        "path": "/document",
+        "children": [
+          {
+            "icon": "align-justify",
+            "title": "文档浏览",
+            "path": "/document/index"
+          },
+          {
+            "icon": "gg",
+            "title": "文档版本",
+            "path": "/document/version"
+          }
+        ]
+      },
+      {
+        "icon": "product-hunt",
+        "title": "产品结构管理",
+        "path": "/product",
+        "children": [
+          {
+            "icon": "file-powerpoint-o",
+            "title": "产品浏览",
+            "path": "/product/index"
+          },
+          {
+            "icon": "file-powerpoint-o",
+            "title": "产品编辑",
+            "path": "/product/edit"
+          }
+        ]
+      },
+      {
+        "icon": "list",
+        "title": "项目管理",
+        "path": "/project",
+        "children": [
+          {
+            "icon": "cubes",
+            "title": "项目列表",
+            "path": "/project/kanban"
+          },
+          {
+            "icon": "th-list",
+            "title": "甘特图展示",
+            "path": "/project/gantt"
+          }
+        ]
+      }
+    ]
+  }
+]

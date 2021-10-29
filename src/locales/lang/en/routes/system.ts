@@ -1,0 +1,51 @@
+export default {
+    authority: 'Authority Manage',
+    system: 'System Manage',
+    platform: 'Platform Manage',
+    account: 'Account Manage',
+    account_detail: 'Account detail',
+    password: 'Change password',
+    dept:  {
+      dept: 'Department Manage',
+      add: 'Department Add',
+      edit: 'Department Update',
+      del: 'Department Delete',
+    }, 
+    menu: {
+        menu: 'Menu Manage',
+        add: 'Menu Add',
+        edit: 'Menu Update',
+        del: 'Menu Delete',
+      }, 
+    user: {
+        user: 'User Manage',
+        add: 'User Add',
+        edit: 'User Update',
+        del: 'User Delete',
+      }, 
+    role: {
+        role: 'Role Manage',
+        add: 'Role Add',
+        edit: 'Role Update',
+        del: 'Role Delete',
+        perm: 'Role Assign',
+      }, 
+    rent: {
+        rent: 'Rent Manage',
+        add: 'Rent Add',
+        edit: 'Rent Update',
+        del: 'Rent Delete',
+      }, 
+    privilege: {
+        manage: 'Privilege Manage',
+        add: 'Privilege Add',
+        edit: 'Privilege Update',
+        del: 'Privilege Delete',
+      }, 
+    module: {
+      module: 'Module Manage',
+        add: 'Privilege Add',
+        edit: 'Privilege Update',
+        del: 'Privilege Delete',
+      }, 
+};

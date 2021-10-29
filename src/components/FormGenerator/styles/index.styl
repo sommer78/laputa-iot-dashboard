@@ -1,0 +1,330 @@
+@import './scrollbar.styl'
+@import './antd.styl'
+
+$primary-color = #409EFF
+$primary-background-color = #ecf5ff
+html, body
+  height 100%
+  margin 0
+#app
+  font-family 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif
+  -webkit-font-smoothing antialiased
+  -moz-osx-font-smoothing grayscale
+  color #2c3e50
+  min-height 100%
+  height 100% 
+.fc-style
+  height 100%
+  *, :after, :before
+    -webkit-box-sizing border-box
+    -moz-box-sizing border-box
+    box-sizing border-box
+  .fc-container
+    background #fff
+    height 100%
+    .ant-layout, .el-container
+      height 100% !important
+    &>.ant-layout, .el-container
+      background #fff
+    .fc-main
+      position relative
+      &>.ant-layout, .el-container
+        position absolute
+        top 0
+        bottom 0
+        left 0
+        right 0
+  .center-container
+    border-left 1px solid #e0e0e0
+    border-right 1px solid #e0e0e0
+    .btn-bar
+      height 45px !important
+      line-height 45px
+      font-size 18px
+      border-bottom 2px solid #e4e7ed
+      text-align right
+      background-color white
+      padding 0 10px
+      .vben-svg-icon
+        font-size 16px
+        margin-right 5px
+    .ant-layout-content, .el-main
+      height calc(100% - 45px)
+      padding 0
+      position relative
+      background #fafafa
+  .components
+    padding 8px 0
+    width 100%
+    height 100%
+    .widget-cate
+      padding 8px 12px
+      font-size 13px
+    ul
+      position relative
+      overflow hidden
+      padding 0 10px 10px
+      margin 0
+    .form-edit-widget-label
+      font-size 12px
+      display block
+      width 48%
+      line-height 26px
+      position relative
+      float left
+      left 0
+      overflow hidden
+      text-overflow ellipsis
+      white-space nowrap
+      margin 1%
+      border 1px solid #F4F6FC
+      &:hover
+        border 1px dashed $primary-color
+        &>a
+          color $primary-color
+      &>a
+        color #333
+        display block
+        cursor move
+        background #f4f6fc
+        border 1px solid #f4f6fc
+        .vben-svg-icon
+          margin-right 6px
+          margin-left 8px
+          font-size 14px
+          display inline-block
+          vertical-align middle
+        span
+          display inline-block
+          vertical-align middle
+  .widget-form-container
+    position absolute
+    top 0
+    left 0
+    right 0
+    bottom 0
+    .widget-form-list
+      background #fff
+      border 1px dashed #999 
+      min-height calc(100vh - 100px)
+      margin 10px
+      .widget-item-container
+        position relative
+        .widget-view-action
+          position absolute
+          right 0
+          bottom -2px
+          height 28px
+          line-height 28px
+          background $primary-color
+          z-index 10
+          .vben-svg-icon
+            font-size 14px
+            color #fff
+            margin 0 5px
+            cursor pointer
+        .widget-view-drag
+          position absolute
+          height 25px
+          left 0
+          top -2px
+          line-height 25px
+          background $primary-color
+          z-index 10
+          .vben-svg-icon
+            font-size 14px
+            color #fff
+            margin 0 5px
+            cursor move
+      .widget-col-list
+        min-height 50px
+        border 1px dashed #ccc
+        background #fff
+      .widget-view
+        padding-bottom 18px
+        position relative
+        border 1px dashed rgba(170, 170, 170, 0.7)
+        background-color rgba(236, 245, 255, 0.3)
+        margin 2px
+        .widget-view-description
+          height 15px
+          line-height 15px
+          font-size 13px
+          margin-top 6px
+          color #909399
+        &:after
+          position absolute
+          left 0
+          right 0
+          top 0
+          bottom 0
+          display block
+        &:hover
+          background $primary-background-color
+          outline 1px solid $primary-color
+          outline-offset 0
+          &.active
+            outline 2px solid $primary-color
+            border 1px solid $primary-color
+            outline-offset 0
+          .widget-view-drag
+            display block
+        &.active
+          outline 2px solid $primary-color
+          border 1px solid $primary-color
+        &.ghost
+          background #f56c6c
+          border 2px solid #f56c6c
+          outline-width 0
+          height 3px
+          box-sizing border-box
+          font-size 0
+          content ''
+          overflow hidden
+          padding 0
+      .widget-col
+        padding 5px
+        background-color rgba(253, 246, 236, 0.3)
+        &.active
+          outline 2px solid #e6a23c
+          border 1px solid #e6a23c
+        &:hover
+          background #fdf6ec
+          outline 1px solid #e6a23c
+          outline-offset 0px
+          &.active
+            outline 2px solid #e6a23c
+            border 1px solid #e6a23c
+            outline-offset 0
+        &.ghost
+          background #f56c6c
+          border 2px solid #f56c6c
+          outline-width 0
+          height 3px
+          box-sizing border-box
+          font-size 0
+          content ''
+          overflow hidden
+          padding 0
+        .widget-view-action.widget-col-action
+          position absolute
+          height 28px
+          right -2px
+          bottom -2px
+          line-height 28px
+          background #e6a23c
+          z-index 10
+          .vben-svg-icon
+            font-size 14px
+            color #fff
+            margin 0 5px
+            cursor move
+        .widget-view-drag.widget-col-drag
+          position absolute
+          height 28px
+          left -2px
+          top -2px
+          line-height 28px
+          background #e6a23c
+          z-index 10
+          .vben-svg-icon
+            font-size 14px
+            color #fff
+            margin 0 5px
+            cursor move
+        &::after
+          display none
+      .ghost
+        background #f56c6c
+        border 2px solid #f56c6c
+        outline-width 0
+        height 3px
+        box-sizing border-box
+        font-size 0
+        content ''
+        overflow hidden
+        padding 0
+    .ghost
+      background #f56c6c
+      border 2px solid #f56c6c
+      position relative
+      &::after
+        background #f56c6c
+    li.ghost
+      height 5px
+      list-style none
+      font-size 0
+      overflow hidden
+  .widget-config-container
+    position relative
+    .ant-layout-header, .el-header
+      border-bottom 2px solid #e4e7ed
+      padding 0 5px
+      height 45px !important
+      line-height 45px !important
+      background-color #fff
+    .config-tab
+      height 41px
+      line-height 41px
+      display inline-block
+      width 145px
+      text-align center
+      font-size 14px
+      font-weight 500
+      position relative
+      cursor pointer
+      &.active
+        border-bottom 2px solid $primary-color
+    .config-content
+      min-height calc(100vh - 85px)
+      padding 10px
+      background #fff
+      overflow auto
+      .ant-form-item-label
+        font-weight 500
+      .el-form-item__label
+        padding 0
+      .ant-form-item, .el-form-item, h4
+        padding-bottom 10px
+        border-bottom 1px solid #e1e1e1
+      .label
+        font-size 14px
+        font-weight 500
+        margin 0 5px
+        &:first-child
+          margin-left 0
+      .drag-item
+        font-size 16px
+        margin 0 5px
+        cursor move
+    .ghost
+      background #fff
+      border 1px dashed $primary-color
+      &::after
+        background #fff
+        display block
+        content ''
+        position absolute
+        top 0
+        left 0
+        right 0
+        bottom 0
+    ul
+      margin 0
+      padding 0
+    li.ghost
+      list-style none
+      font-size 0
+      display block
+      position relative
+  .form-empty
+    position absolute
+    text-align center
+    width 300px
+    font-size 20px
+    top 200px
+    left 50%
+    margin-left -150px
+    color #ccc
+  .widget-empty
+    background-position 50%

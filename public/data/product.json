@@ -1,0 +1,134 @@
+[
+  {
+    "Id": "70c56cee-1d3f-43bf-b6a9-007806d6f1bc",
+
+    "name": "ET9562  ",
+    "description": "ET9562  TWS  耳机充电管理系统",
+    "RourceType": 3,
+    "ISAllVisible": false,
+    "Describe": "",
+    "manager": "王云飞",
+    "CreateTime": "2019-11-07T14:16:15.977",
+    "EditTime": "2019-11-07T14:16:15.98",
+    "classified": "高压OVP保护器件",
+
+    "PermissionType": 0
+  },
+  {
+    "Id": "d3eb56cd-2fd9-4531-bf50-01b183bedaa9",
+    "name": "ET7480  ",
+    "description": "ET7480  TypeC端口过压防护电路",
+    "manager": "王云飞",
+    "CreateTime": "2019-11-06T14:05:56.507",
+    "EditTime": "2019-11-06T14:05:56.51",
+    "classified": "高压OVP保护器件",
+
+    "PermissionType": 0
+  },
+  {
+    "Id": "a1370416-28ca-4dda-9daf-02faef570ef3",
+
+    "name": "ET531XX  ",
+    "description": "ET531XX  高精度超低噪声LDO",
+
+    "manager": "刘晓敏",
+    "CreateTime": "2019-11-06T14:05:34.77",
+    "EditTime": "2019-11-06T14:05:34.773",
+    "classified": "LDO系列产品",
+
+    "PermissionType": 0
+  },
+  {
+    "Id": "dcbab96a-ee6a-4cfb-87ab-06a058a8da6f",
+
+    "name": "ET631XX   ",
+    "description": "ET631XX   0.6uA低静态电流LDO",
+
+    "manager": "王云飞",
+    "CreateTime": "2019-11-04T16:18:36.707",
+    "EditTime": "2019-11-04T16:18:36.71",
+
+    "classified": "LDO系列产品",
+
+    "PermissionType": 0
+  },
+  {
+    "Id": "63802bd0-0cb3-4044-9f06-07e1432e911e",
+
+    "name": "ET9653",
+    "description": "ET9653  过压防护及多路开关电路",
+
+    "manager": "石波",
+    "CreateTime": "2019-11-04T16:08:40.963",
+    "EditTime": "2019-11-04T16:08:40.967",
+
+    "classified": "高压OVP保护器件",
+
+    "PermissionType": 0
+  },
+  {
+    "Id": "70c56cee-1d3f-43bf-b6a9-007806d6f1bc",
+
+    "name": "ET9513C  ",
+    "description": "ET9513C 锂电池线性充电管理电路",
+    "manager": "王云飞",
+    "CreateTime": "2019-11-07T14:16:15.977",
+    "EditTime": "2019-11-07T14:16:15.98",
+    "classified": "高频DCDC产品",
+    "PermissionType": 0
+  },
+  {
+    "Id": "d3eb56cd-2fd9-4531-bf50-01b183bedaa9",
+
+    "name": "ET9552  ",
+    "description": "ET9552  防浪涌电源过压保护电路",
+
+    "manager": "刘晓敏",
+    "CreateTime": "2019-11-06T14:05:56.507",
+    "EditTime": "2019-11-06T14:05:56.51",
+
+    "classified": "高压OVP保护器件",
+
+    "PermissionType": 0
+  },
+  {
+    "Id": "a1370416-28ca-4dda-9daf-02faef570ef3",
+
+    "name": "ET9553  ",
+    "description": "ET9553 防浪涌电源过压保护电路",
+
+    "manager": "石波",
+    "CreateTime": "2019-11-06T14:05:34.77",
+    "EditTime": "2019-11-06T14:05:34.773",
+
+    "classified": "高压OVP保护器件",
+
+    "PermissionType": 0
+  },
+  {
+    "Id": "dcbab96a-ee6a-4cfb-87ab-06a058a8da6f",
+
+    "name": "ET3138   ",
+    "description": "ET3138 低内阻负载开关",
+
+    "manager": "石波",
+    "CreateTime": "2019-11-04T16:18:36.707",
+    "EditTime": "2019-11-04T16:18:36.71",
+
+    "classified": "SWITCH系列产品",
+
+    "PermissionType": 0
+  },
+  {
+    "Id": "63802bd0-0cb3-4044-9f06-07e1432e911e",
+    "name": "ET531XX",
+    "description": "ET531XX 高精度超低噪声LDO",
+    "manager": "王云飞",
+    "CreateTime": "2019-11-04T16:08:40.963",
+    "EditTime": "2019-11-04T16:08:40.967",
+    "classified": "LDO系列产品",
+
+    "PermissionType": 0
+  }
+]
+
