@@ -1,15 +1,18 @@
-<div align="center"> <a href="https://github.com/anncwb/vue-vben-admin"> <img alt="VbenAdmin Logo" width="200" height="200" src="https://anncwb.github.io/anncwb/images/logo.png"> </a> <br> <br>
+<div align="center"> <a href="https://github.com/sommer78/"> 
+<img alt="LaputaIOTAdmin Logo" width="200" height="200" src="./src/assets/images/logo.png"> </a> <br> <br>
+
 
 [![license](https://img.shields.io/github/license/anncwb/vue-vben-admin.svg)](LICENSE)
 
-<h1>Vue vben admin</h1>
+<h1>Laputa IOT Platform Admin</h1>
+<h2>based in Vue3.0 typescript Vben </h2>
 </div>
 
 **中文** | [English](./README.md)
 
 ## 简介
 
-Vue Laputa IOT Admin 是一个免费开源的中后台模版。使用了最新的`vue3`,`vite2`,`TypeScript`等主流技术开发，开箱即用的中后台前端解决方案，也可用于学习参考。
+Vue Laputa IOT Admin 是一个免费开源的IOT物联网平台模板。使用了最新的`vue3`,`vite2`,`TypeScript`等主流技术开发，开箱即用的中后台前端解决方案，也可用于学习参考。
 
 ## 特性
 

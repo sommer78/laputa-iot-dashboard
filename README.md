@@ -1,10 +1,11 @@
 <div align="center"> <a href="https://github.com/sommer78/"> 
-<img alt="LaputaIOTAdmin Logo" width="200" height="200" src="https://anncwb.github.io/anncwb/images/logo.png"> </a> <br> <br>
+<img alt="LaputaIOTAdmin Logo" width="200" height="200" src="./src/assets/images/logo.png"> </a> <br> <br>
 
 [![license](https://img.shields.io/github/license/anncwb/vue-vben-admin.svg)](LICENSE)
 
 <h1>Laputa IOT Platform Admin</h1>
-<h2>based in Vue3.0 typescript </h2>
+<h2>based in Vue3.0 typescript Vben </h2>
+
 </div>
 
 
@@ -24,11 +25,14 @@ Laputa IOT Platform Admin is a free and open source middle and back-end template
 - **Mock Server** Built-in mock data scheme
 - **Authority** Built-in complete dynamic routing permission generation scheme.
 - **Component** Multiple commonly used components are encapsulated twice
-
+- **UPMS**  Based in SpringCloud security oauth2.0 and  UML Profile and Metamodel for Service
+- **Code Generator**  Pull and draggle to make code easy
+- **Instant Message**  Based in websocket  instant message
+- **BPMN WORKFLOW**  Based in BPMN SERVICE
 
 ### 
 
-Open the project in Gitpod (free online dev environment for GitHub) and start coding immediately.
+Open the project in Vscode and start coding immediately.
 
 
 ## Preparation
@@ -68,8 +72,32 @@ yarn build
 
 ## Project
 
-- [vue-vben-admin](https://github.com/sommer78/) - full version
-- [vue-vben-admin-thin-next](https://github.com/anncwb/vben-admin-thin-next) - Simplified version
+- [laputa-iot-dashboard](https://github.com/sommer78/laputa-iot-dashboard) - Frontend
+- [laputa-iot-msa](https://github.com/sommer78/laputa-iot-msa) - Backend
+
+## Preview
+
+
+
+![](./assets/login.jpg)
+
+![](/assets/dashboard.jpg)
+
+![](/assets/代码生成.png)
+
+![](/assets/角色管理.png)
+
+![](/assets/聊天功能.png)
+
+![](/assets/模型管理.png)
+
+![](/assets/用户管理.png)
+
+
+
+![](/assets/自动表单.png)
+
+
 
 ## How to contribute
 
@@ -125,7 +153,7 @@ Support modern browsers, not IE
 
 ## Maintainer
 
-[@Vben](https://github.com/anncwb)
+[@Sommer](https://github.com/sommer78)
 
 ## Donate
 
@@ -133,13 +161,11 @@ If you think this project is helpful to you, you can help the author buy a cup o
 
 ![donate](https://anncwb.github.io/anncwb/images/sponsor.png)
 
-<a style="display: block;width: 100px;height: 50px;line-height: 50px; color: #fff;text-align: center; background: #408aed;border-radius: 4px;" href="https://www.paypal.com/paypalme/cvvben">Paypal Me</a>
-
 ## Discord
 
 - [github discussions](https://github.com/sommer78/laputa-iot-dashboard/discussions)
-- [Discord](https://discord.gg/8GuAdwDhj6)
 
 ## License
 
 [MIT © laputa-iot.com 2021-2025](./LICENSE)
+
